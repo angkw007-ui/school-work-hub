@@ -5,19 +5,9 @@
 **업무 자료 안내 및 링크를 모아둔 포털**입니다.
 
 ---
-
-## 📊 업무용 구글시트
-
-- 📌 학생맞춤통합지원 관리 시트  
-  https://docs.google.com/spreadsheets/d/XXXX
-
-- 📌 위원회별 회의록 시트  
-  https://docs.google.com/spreadsheets/d/YYYY
-
-
 ## 🗓 월별 계획 / 일정 관리
 
-- 📅 학교 연간·월간 계획 시트  
+- 📅 학교 연간·월간 계획· 주간 계획 시트  
   https://docs.google.com/spreadsheets/d/ZZZZ
 
 ---
