@@ -8,8 +8,7 @@
 ## 🗓 월별 계획 / 일정 관리
 
 - 📅 학교 연간·월간 계획· 주간 계획 시트  
-  https://docs.google.com/spreadsheets/d/ZZZZ
-
+(https://docs.google.com/spreadsheets/d/1ez0BaGad9zQjA2S6wF48V-Fh8S5isjq00rodbFpwUkI/edit?usp=sharing)
 ---
 
 ## 📌 사용 안내
